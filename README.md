@@ -1,4 +1,8 @@
-### Hi there 👋
+### 
+:rocket: I am currently an Energetics Process Engineer at Northrop Grumman  
+:wrench: Although I majored in Mechanical Engineering, I would like to start exploring CS  
+:sparkles: You can reach me through [LinkedIn](https://www.linkedin.com/in/steviemarston/)
+
 
 <!--
 **steviemarston/steviemarston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
