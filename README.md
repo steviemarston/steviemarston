@@ -1,6 +1,6 @@
 ### 
 :rocket: I am currently an Energetics Process Engineer at Northrop Grumman  
-:wrench: Although I majored in Mechanical Engineering, I would like to start exploring CS  
+:wrench: Although I majored in Mechanical Engineering, I am starting to explore CS  
 :sparkles: You can reach me through [LinkedIn](https://www.linkedin.com/in/steviemarston/)
 
 
